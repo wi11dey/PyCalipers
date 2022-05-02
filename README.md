@@ -9,7 +9,7 @@ Automatically detect layer orientation and thicknesses with accurate standard de
 
 <img src="https://raw.githubusercontent.com/wi11dey/PyCalipers/master/image7.png" width="500" /><img src="https://raw.githubusercontent.com/wi11dey/PyCalipers/master/image8.png" width="500" /><img src="https://raw.githubusercontent.com/wi11dey/PyCalipers/master/image11.png" width="500" />
 
-## Example
+## Usage
 ```
 $ calipers.py CS_normalView_03.tif -o CS_normalView_03.csv
 Reading...

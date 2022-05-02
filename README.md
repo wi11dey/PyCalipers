@@ -7,7 +7,7 @@ Automatically detect layer orientation and thicknesses with accurate standard de
 
 ## Orientation detection
 
-<img src="https://raw.githubusercontent.com/wi11dey/PyCalipers/master/image7.png" width="500" /><img src="https://raw.githubusercontent.com/wi11dey/PyCalipers/master/image8.png" width="500" /><img src="https://raw.githubusercontent.com/wi11dey/PyCalipers/master/image11.png" width="500" />
+<img src="https://raw.githubusercontent.com/wi11dey/PyCalipers/master/image7.png" width="300" /><img src="https://raw.githubusercontent.com/wi11dey/PyCalipers/master/image8.png" width="300" /><img src="https://raw.githubusercontent.com/wi11dey/PyCalipers/master/image11.png" width="300" />
 
 ## Usage
 ```
